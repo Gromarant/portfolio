@@ -32,7 +32,7 @@ function Footer({translate}) {
         <h2 className='show_expanded'>{translate.text.footer.copyright}</h2>
         <section className='copyright'>
           <img src='src/assets/images/logo.svg' alt='logo'/>
-          <a href='https://www.linkedin.com/in/mariangelica-rodr%C3%ADguez-p%C3%A9rez/' target="_blank">{translate.text.footer.author}</a>
+          <a href='https://www.linkedin.com/in/mariangelicarodriguezperez' target="_blank">{translate.text.footer.author}</a>
         </section>
       </article>
     </footer>

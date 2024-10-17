@@ -110,7 +110,7 @@ const english = {
   rrss : [
     {
       name: "LinkedIn",
-      link: "https://www.linkedin.com/in/mariangelica-rodr%C3%ADguez-p%C3%A9rez/",
+      link: "https://www.linkedin.com/in/mariangelicarodriguezperez",
       title: "Go to LinkedIn",
       icon: FaLinkedinIn
     },
