@@ -6,7 +6,7 @@
 
 <p align="center">
 <a style="text-decoration:none; cursor:pointer;" stylehref="https://github.com/Gromarant"><img src="src/assets/images/github_readme.svg" alt="Github logo" title="Visitar mi perfil de Github"/></a> &nbsp; &nbsp;
-<a style="text-decoration:none; cursor:pointer;" stylehref="https://www.linkedin.com/in/mariangelicarodriguezperez"><img src="src/assets/images/linkedIn_readme.svg" alt="linkedIn logo" title="Ver mi perfil de LinkedIn"/></a> &nbsp; &nbsp;
+<a style="text-decoration:none; cursor:pointer;" stylehref="https://https://www.linkedin.com/in/mariangelicarodriguezperez/"><img src="src/assets/images/linkedIn_readme.svg" alt="linkedIn logo" title="Ver mi perfil de LinkedIn"/></a> &nbsp; &nbsp;
 <a style="text-decoration:none; cursor:pointer;" stylehref="mailto:gromarant@gmail.com"><img src="src/assets/images/mail_readme.svg" alt="Email logo" title="Contactarme por correo"/></a>
 </p>
 
@@ -22,7 +22,7 @@ Cambiar a:&nbsp; &nbsp; [![es](https://img.shields.io/badge/idioma-Inglés-green
 ---
 
 # Portafolio
-Bienvenid@ a mi portafolio profesional!, Yo soy <a href="https://www.linkedin.com/in/mariangelicarodriguezperez" target="_blank">Mariangelica Rodriguez</a>, aquí puedes ver algunos de mis proyetos. Navega en sitios web, prototipos, mockups y repositorios.
+Bienvenid@ a mi portafolio profesional!, Yo soy <a href="https://https://www.linkedin.com/in/mariangelicarodriguezperez/" target="_blank">Mariangelica Rodriguez</a>, aquí puedes ver algunos de mis proyetos. Navega en sitios web, prototipos, mockups y repositorios.
 
 Explora mi trabajo en los siguientes enlaces.
 
@@ -153,7 +153,7 @@ Aplicación web en React.js.
 
 <p align="center">
 <a style="text-decoration:none; cursor:pointer;" stylehref="https://github.com/Gromarant"><img src="src/assets/images/github_readme.svg" alt="Github logo" title="Visitar mi perfil de Github"/></a> &nbsp; &nbsp;
-<a style="text-decoration:none; cursor:pointer;" stylehref="https://www.linkedin.com/in/mariangelicarodriguezperez"><img src="src/assets/images/linkedIn_readme.svg" alt="linkedIn logo" title="Ver mi perfil de LinkedIn"/></a> &nbsp; &nbsp;
+<a style="text-decoration:none; cursor:pointer;" stylehref="https://https://www.linkedin.com/in/mariangelicarodriguezperez/"><img src="src/assets/images/linkedIn_readme.svg" alt="linkedIn logo" title="Ver mi perfil de LinkedIn"/></a> &nbsp; &nbsp;
 <a style="text-decoration:none; cursor:pointer;" stylehref="mailto:gromarant@gmail.com"><img src="src/assets/images/mail_readme.svg" alt="Email logo" title="Contactarme por correo"/></a>
 </p>
 
