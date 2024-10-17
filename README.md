@@ -81,7 +81,7 @@ Web application developed in React.js, SASS and Nextui.
 </summary>
 
 <br>
-<img src="src/assets/images/gromaSnake_banner_img_small.svg" title="Groma-Snake" alt="Groma-Snake"/>
+<img src="src/assets/images/gromaSnake_banner_img_small.svg" title="GromaSnake" alt="GromaSnake"/>
 
 <br>
 
@@ -109,10 +109,10 @@ Game developed in HTML, CSS and JavaScript.
 
 ### Project links:
 <p align="center">
-<a href="https://www.figma.com/file/6SYeCJMoiDG8LZPKQ3QRyZ/GromaSnake?type=design&node-id=0-1&mode=design&t=taUbdkRK095LZ2Cp-0" title="visit FullPokeApp prototype" target="_blank"><img src="src/assets/images/prototype_readme.svg"/></a> &nbsp; &nbsp;
-<a href="https://github.com/Gromarant/GromaSnake" title="visit Groma-Snake repository" target="_blank"><img src="src/assets/images/repository_readme.svg"/></a> &nbsp; &nbsp;
-<a href="hhttps://gromarant.github.io/GromaSnake/" title="Go to Groma-Snake web app" target="_blank"><img src="src/assets/images/web_readme.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/watch?v=hwLYrtQhLVI" title="See Groma-Snake video" target="_blank"><img src="src/assets/images/video_readme.svg"/></a>
+<a href="https://www.figma.com/proto/6SYeCJMoiDG8LZPKQ3QRyZ/GromaSnake?node-id=911-8648&node-type=canvas&t=Sa8OoNriTpnGw5tp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A8648" title="visit GromaSnake prototype" target="_blank"><img src="src/assets/images/prototype_readme.svg"/></a> &nbsp; &nbsp;
+<a href="https://github.com/Gromarant/GromaSnake" title="visit GromaSnake repository" target="_blank"><img src="src/assets/images/repository_readme.svg"/></a> &nbsp; &nbsp;
+<a href="hhttps://gromarant.github.io/GromaSnake/" title="Go to GromaSnake web app" target="_blank"><img src="src/assets/images/web_readme.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.youtube.com/watch?v=hwLYrtQhLVI" title="See GromaSnake video" target="_blank"><img src="src/assets/images/video_readme.svg"/></a>
 </p>
 </details>
 <br>

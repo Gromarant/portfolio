@@ -28,11 +28,11 @@ const spanish = {
       image: "fullPokeApp"
     },
     {
-      title: 'Groma-Snake',
+      title: 'GromaSnake',
       links: [
         {
           name: "Prototipo",
-          link: "https://www.figma.com/file/6SYeCJMoiDG8LZPKQ3QRyZ/GromaSnake?type=design&node-id=0-1&mode=design&t=taUbdkRK095LZ2Cp-0",
+          link: "https://www.figma.com/proto/6SYeCJMoiDG8LZPKQ3QRyZ/GromaSnake?node-id=911-8648&node-type=canvas&t=Sa8OoNriTpnGw5tp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A8648",
           icon: MdDevices
         },
         {
@@ -110,7 +110,7 @@ const spanish = {
   rrss : [
     {
       name: "LinkedIn",
-      link: "https://www.linkedin.com/in/mariangelicarodriguezperez",
+      link: "www.linkedin.com/in/mariangelicarodriguezperez",
       title: "Ir a LinkedIn",
       icon: FaLinkedinIn
     },

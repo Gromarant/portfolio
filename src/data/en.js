@@ -28,11 +28,11 @@ const english = {
       image: "fullPokeApp"
     },
     {
-      title: "Groma-Snake",
+      title: "GromaSnake",
       links: [
         {
           name: "Prototype",
-          link: "https://www.figma.com/file/6SYeCJMoiDG8LZPKQ3QRyZ/GromaSnake?type=design&node-id=0-1&mode=design&t=taUbdkRK095LZ2Cp-0",
+          link: "https://www.figma.com/proto/ZbeIXzUzrwc1tMEwDv9W7q/Gromarant?node-id=447-5614&node-type=canvas&t=0W9R68XHJAqOvXJd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=447%3A5614&show-proto-sidebar=1https://www.figma.com/proto/6SYeCJMoiDG8LZPKQ3QRyZ/GromaSnake?node-id=911-8648&node-type=canvas&t=Sa8OoNriTpnGw5tp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A8648",
           icon: MdDevices
         },
         {
