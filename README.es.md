@@ -7,7 +7,7 @@
 <p align="center">
 <a style="text-decoration:none; cursor:pointer;" stylehref="https://github.com/Gromarant"><img src="src/assets/images/github_readme.svg" alt="Github logo" title="Visitar mi perfil de Github"/></a> &nbsp; &nbsp;
 <a style="text-decoration:none; cursor:pointer;" stylehref="https://www.linkedin.com/in/mariangelicarodriguezperez/"><img src="src/assets/images/linkedIn_readme.svg" alt="linkedIn logo" title="Ver mi perfil de LinkedIn"/></a> &nbsp; &nbsp;
-<a style="text-decoration:none; cursor:pointer;" stylehref="mailto:contacto@gromarant.com"><img src="src/assets/images/mail_readme.svg" alt="Email logo" title="Contactarme por correo"/></a>
+<a style="text-decoration:none; cursor:pointer;" stylehref="mailto:gromarant@gmail.com"><img src="src/assets/images/mail_readme.svg" alt="Email logo" title="Contactarme por correo"/></a>
 </p>
 
 <br>
@@ -154,7 +154,7 @@ Aplicación web en React.js.
 <p align="center">
 <a style="text-decoration:none; cursor:pointer;" stylehref="https://github.com/Gromarant"><img src="src/assets/images/github_readme.svg" alt="Github logo" title="Visitar mi perfil de Github"/></a> &nbsp; &nbsp;
 <a style="text-decoration:none; cursor:pointer;" stylehref="https://www.linkedin.com/in/mariangelicarodriguezperez/"><img src="src/assets/images/linkedIn_readme.svg" alt="linkedIn logo" title="Ver mi perfil de LinkedIn"/></a> &nbsp; &nbsp;
-<a style="text-decoration:none; cursor:pointer;" stylehref="mailto:contacto@gromarant.com"><img src="src/assets/images/mail_readme.svg" alt="Email logo" title="Contactarme por correo"/></a>
+<a style="text-decoration:none; cursor:pointer;" stylehref="mailto:gromarant@gmail.com"><img src="src/assets/images/mail_readme.svg" alt="Email logo" title="Contactarme por correo"/></a>
 </p>
 
 <br><br>

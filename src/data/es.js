@@ -130,7 +130,7 @@ const spanish = {
 
   mailTo: {
     name: "Email",
-    link: "mailto:contacto@gromarant.com",
+    link: "mailto:gromarant@gmail.com",
     title: "Escribir un correo",
     icon: MdEmail
   },
