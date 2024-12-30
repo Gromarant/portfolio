@@ -137,9 +137,9 @@ const spanish = {
 
   profile_photo : {
     src: {
-      small: "src/assets/images/profile_photo120.svg",
-      medium: "src/assets/images/profile_photo144.svg",
-      large: "src/assets/images/profile_photo168.svg"
+      small: `${import.meta.env.VITE_BASE_URL + "profile_photo120.svg"}`,
+      medium: `${import.meta.env.VITE_BASE_URL + "profile_photo144.svg"}`,
+      large: `${import.meta.env.VITE_BASE_URL + "profile_photo168.svg"}`
     },
     alt: "Foto de perfil"
   },
@@ -149,8 +149,8 @@ const spanish = {
     profession: ["Desarrolladora Full stack", "Diseñadora UI/UX"],
     greating: {
       src: {
-        small: "src/assets/images/profile_greeting_card_es_small.svg",
-        large: "src/assets/images/profile_greeting_card_es_large.svg"
+        small: `${import.meta.env.VITE_BASE_URL + "profile_greeting_card_es_small.svg"}`,
+        large: `${import.meta.env.VITE_BASE_URL + "profile_greeting_card_es_large.svg"}`
       },
       alt: "Hola!! Encantada de que estés por aquí y que conozcas un poco sobre mí",
       title: "bienvenid@!!"
@@ -160,67 +160,67 @@ const spanish = {
   langs_and_tools: [
     {
       name: "Javascript",
-      url: "src/assets/images/icons/icon_js_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_js_small.svg"}`
     },
     {
       name: "React.Js",
-      url: "src/assets/images/icons/icon_react_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_react_small.svg"}`
     },
     {
       name: "Node.js",
-      url: "src/assets/images/icons/icon_nodejs_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_nodejs_small.svg"}`
     },
     {
       name: "HTML5",
-      url: "src/assets/images/icons/icon_html5_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_html5_small.svg"}`
     },
     {
       name: "SASS",
-      url: "src/assets/images/icons/icon_sass_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_sass_small.svg"}`
     },
     {
       name: "Express.js",
-      url: "src/assets/images/icons/icon_expressjs_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_expressjs_small.svg"}`
     },
     {
       name: "CSS3",
-      url: "src/assets/images/icons/icon_css3_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_css3_small.svg"}`
     },
     {
       name: "Nextui",
-      url: "src/assets/images/icons/icon_nextui_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_nextui_small.svg"}`
     },
     {
       name: "Jest",
-      url: "src/assets/images/icons/icon_jest_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_jest_small.svg"}`
     },
     {
       name: "GIT/ GitHub",
-      url: "src/assets/images/icons/icon_github_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_github_small.svg"}`
     },
     {
       name: "Figma",
-      url: "src/assets/images/icons/icon_figma_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_figma_small.svg"}`
     },
     {
       name: "Balsamic",
-      url: "src/assets/images/icons/icon_balsamic_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_balsamic_small.svg"}`
     },
     {
       name: "Firebase",
-      url: "src/assets/images/icons/icon_firebase_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_firebase_small.svg"}`
     },
     {
       name: "MongoDb",
-      url: "src/assets/images/icons/icon_mongodb_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_mongodb_small.svg"}`
     },
     {
       name: "Docker",
-      url: "src/assets/images/icons/icon_docker_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_docker_small.svg"}`
     },
     {
       name: "SQL",
-      url: "src/assets/images/icons/icon_sql_small.svg"
+      url: `${import.meta.env.VITE_BASE_URL + "icons/icon_sql_small.svg"}`
     }
   ],
 
@@ -237,13 +237,6 @@ const spanish = {
       date: "01/2021",
       academy: "The Bridge | Digital Talent Accelerator",
       diploma_link: "https://drive.google.com/file/d/1YrrCJn8vf9AQ1EBPqmh7G1oCbn7oYGjv/view",
-      link_text: "Abrir enlace"
-    },
-    {
-      title: "Web development",
-      date: "07/2020",
-      academy: "Centro de estudios Infer, SL (Sistema de Formación Profesional)",
-      diploma_link: "https://drive.google.com/file/d/1TdUkbtT7b-GAhFzkx_daRuHY050DQZaU/view",
       link_text: "Abrir enlace"
     }
   ],
