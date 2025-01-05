@@ -229,14 +229,14 @@ const english = {
       title: "Full stack developer",
       date: "08/2023",
       academy: "The Bridge | Digital Talent Accelerator",
-      diploma_link: "https://drive.google.com/file/d/17Tliv0fcZHBc5yvRQ8RAyOg80NLgF-eY/view?usp=sharing",
+      diploma_link: "https://drive.google.com/file/d/1IzeU0Bud6cgLPEMFaT0W-UNClS3k5XN-/view?usp=drive_link",
       link_text: "Open link"
     },
     {
       title: "UX/UI Product Design",
       date: "01/2021",
       academy: "The Bridge | Digital Talent Accelerator",
-      diploma_link: "https://drive.google.com/file/d/1YrrCJn8vf9AQ1EBPqmh7G1oCbn7oYGjv/view",
+      diploma_link: "https://drive.google.com/file/d/1J1QMSpcAISHBnSrca3zKLBvt-tRx2qxc/view?usp=drive_link",
       link_text: "Open link"
     }
   ],
