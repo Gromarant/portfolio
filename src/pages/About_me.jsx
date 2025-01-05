@@ -13,27 +13,7 @@ function About_me({translate}){
         author={translate.author}
       /> 
 
-      <section className='rrss'>
-        <RRSS rrss={translate.rrss}/>
-      </section>
-      <span className='divisor'></span>
-
-      <Section_title title={translate.text.about.sections.experience} isEven={true}/>
-      <section className="about_projects">
-        {
-          translate.projects.map((project, index) => (
-            <Banner
-              key={project.title}
-              img={project.image} 
-              btns={project.links}
-              index={index} 
-              title={project.title}
-            />
-          ))
-        }
-      </section>
-
-      <section className='rrss'>
+    <section className='rrss'>
         <RRSS rrss={translate.rrss}/>
       </section>
       <span className='divisor'></span>
@@ -70,6 +50,25 @@ function About_me({translate}){
           }
         </section>
 
+      <section className='rrss'>
+        <RRSS rrss={translate.rrss}/>
+      </section>
+      <span className='divisor'></span>
+
+      <Section_title title={translate.text.about.sections.experience} isEven={true}/>
+      <section className="about_projects">
+        {
+          translate.projects.map((project, index) => (
+            <Banner
+              key={project.title}
+              img={project.image} 
+              btns={project.links}
+              index={index} 
+              title={project.title}
+            />
+          ))
+        }
+      </section>
     </section>
   )
 }
